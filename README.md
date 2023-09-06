@@ -73,3 +73,9 @@ runner. To execute, run the following from the toplevel or the `test` folder:
     ✔ icmp 2 (0.338138ms)
     ✔ icmp 3 (0.446812ms)
     ...
+
+Browser support
+---------------
+
+The package currently does not support browser-side operation. Contributions
+very welcome!
