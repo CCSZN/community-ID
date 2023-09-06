@@ -12,7 +12,7 @@
     "bin": {
         "community-id": "./cli.js"
     },
-    "version": "2.0.0",
+    "version": "2.1.0",
     "description": "An implementation of the open Community ID flow tuple hashing standard",
     "keywords": [ "community id", "community", "flow", "hashing", "network traffic", "network security monitoring", "NSM", "NTA" ],
     "homepage": "https://github.com/corelight/communityid-js",
